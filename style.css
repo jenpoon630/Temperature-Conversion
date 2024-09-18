@@ -1,0 +1,32 @@
+#main-container{
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 300px;
+    padding: 30px;
+    margin: auto;
+}
+
+#input-box{
+    padding: 6px;
+    border-color: black;
+    border-radius: 5px;
+}
+
+.to-text{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.button-format{
+    padding: 7px;
+    font-size: 20px;
+    background-color: rgb(116, 202, 202);
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#result{
+    font-weight: bold;
+    font-size: 20px;
+}
